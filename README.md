@@ -1,6 +1,4 @@
 
-
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif"/>
   <div id="badges">
@@ -22,8 +20,6 @@
   <img src="https://media.giphy.com/media/3gNlAZojmDogxqlyuH/giphy.gif"/>
 </div>
 
-
-
 ### :woman_technologist: About Me :
 - :telescope: I’m working as frontend developer and contributing to frontend and backend for building web applications.
 
@@ -32,14 +28,9 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-
-
-
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  
-
+ 
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -47,8 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 
- 
- 
 </div>
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ranzim&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
