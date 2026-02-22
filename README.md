@@ -1,4 +1,4 @@
-# 🤖 AI/ML Software Developer | Ravi K Thekare
+# 🤖 AI/ML | Software Developer | Ravi K Thekare
 
 <div align="center">
   
