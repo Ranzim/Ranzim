@@ -1,8 +1,8 @@
-# 🤖 AI/ML | Software Developer | Ravi K Thekare
+#  Software Developer | Ravi K Thekare
 
 <div align="center">
   
-**AI Enthusiast | Self-Learning AI Agent Builder | Intelligent Systems Developer**
+**AI Enthusiast | Self-Learning| Intelligent Systems Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-thekare-1bb29218a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranzimthekare123@gmail.com)
@@ -28,7 +28,7 @@ Computer Science student at **HTW Berlin** obsessed with **Artificial Intelligen
 - Building intelligent AI systems
 - Collaborating on ML/AI projects
 - Discussing AI advancements
-- Open-source contributions
+
 
 **Reach me at:**
 - 📧 **Email**: [ranzimthekare123@gmail.com](mailto:ranzimthekare123@gmail.com)
