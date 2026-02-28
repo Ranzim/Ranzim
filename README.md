@@ -2,7 +2,7 @@
 
 <div align="center">
   
-**AI Enthusiast | Self-Learning| Intelligent Systems Developer**
+**AI Enthusiast | Self-Learning| AI Developer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ravi-thekare-1bb29218a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ranzimthekare123@gmail.com)
