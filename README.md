@@ -14,13 +14,11 @@
 
 ## 🎯 Who I Am
 
-Computer Science student at **HTW Berlin** obsessed with **Artificial Intelligence** and **Machine Learning**. I build intelligent, self-learning AI agents and cutting-edge applications that think. Currently exploring advanced LLMs, prompt engineering, and autonomous agent architectures.
+Computer Science graduate and current M.Sc. student at HTW Berlin specializing in Professional IT Business & Digitalization, with a strong passion for Artificial Intelligence, Machine Learning, and modern software development. Experienced in building scalable web applications, intelligent systems, and data-driven solutions using technologies like Python, JavaScript, React, Next.js, Node.js, and cloud platforms.
 
-**Passion**: Creating AI systems that can learn, adapt, and solve complex problems independently.
+Currently exploring LLMs, prompt engineering, autonomous AI agents, and advanced machine learning systems to create applications that can learn, adapt, and solve complex real-world problems.
 
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
+Passion: Designing innovative AI-powered products and intelligent software that combine automation, usability, and real impact.
 
 ## 📞 Let's Connect!
 
