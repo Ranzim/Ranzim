@@ -31,7 +31,7 @@ Passion: Designing innovative AI-powered products and intelligent software that 
 **Reach me at:**
 - 📧 **Email**: [ranzimthekare123@gmail.com](mailto:ranzimthekare123@gmail.com)
 - 💼 **LinkedIn**: [ravi-thekare](https://www.linkedin.com/in/ravi-thekare-1bb29218a/)
-- 🌐 Website: ravitcore.com
+- 🌐 Website: [ravitcore.com (https://ravitcore.com/)
 - 🌍 **Based in**: Berlin, Germany
 
 ---
